@@ -6,7 +6,7 @@ package overloading;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class SegitigaSamaKaki extends BangunDatar {
    
@@ -35,3 +35,4 @@ public class SegitigaSamaKaki extends BangunDatar {
         super.tampilData();
     }
 }
+
