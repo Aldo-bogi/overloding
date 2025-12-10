@@ -6,7 +6,7 @@ package overloading;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class BangunDatar {
     
@@ -24,4 +24,5 @@ public class BangunDatar {
     }
     
 }
+
 
