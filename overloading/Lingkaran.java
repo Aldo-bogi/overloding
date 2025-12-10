@@ -6,7 +6,7 @@ package overloading;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class Lingkaran extends BangunDatar{
    
@@ -32,4 +32,5 @@ public class Lingkaran extends BangunDatar{
         super.tampilData();
     } 
 }
+
 
