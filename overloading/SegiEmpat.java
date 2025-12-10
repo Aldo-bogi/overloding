@@ -6,7 +6,7 @@ package overloading;
 
 /**
  *
- * @author jauza
+ * @author aldo
  */
 public class SegiEmpat extends BangunDatar{
    
@@ -42,4 +42,5 @@ public class SegiEmpat extends BangunDatar{
         super.tampilData();
     }
 }
+
 
